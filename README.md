@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
+I am Sai Greeshma Anumolu
 - 🔭 I worked as Software developer.
 - 🌱 I’m currently learning  Developing Web Applications and Services.
 - 📫 How to reach me: greeshma.yasp35@gmail.com
